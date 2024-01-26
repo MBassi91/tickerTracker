@@ -14,7 +14,7 @@ This Python script provides a user-friendly interface to fetch historical stock 
 ## How to Run
 1. Clone or download the repository.
 2. Install necessary Python libraries by running `pip install -r requirements.txt`.
-3. Run the script using a Python interpreter: `python stock_data_fetcher.py`.
+3. Run the script using a Python interpreter: `tickerTracker.py`.
 4. Follow the instructions in the GUI to input your data and preferences.
 
 ## How to Use
